@@ -1,0 +1,19 @@
+{
+  "name": "3theta",
+  "version": "1.0.0",
+  "description": "A APUSH, AMC 10, and AMC 12 question bank.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanmabli/3theta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanmabli/3theta/issues"
+  },
+  "homepage": "https://github.com/seanmabli/3theta#readme"
+}
