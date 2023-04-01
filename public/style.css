@@ -11,6 +11,10 @@ img {
   margin-right: auto;
 }
 
+.padding {
+  padding-top: 30px
+}
+
 .text {
   font-family: 'Roboto';
   color: black;
