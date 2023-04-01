@@ -14,4 +14,4 @@ def get_problem(year, exam, problem):
     soup = soup.find('div', id= 'mw-content-text')
     soup = soup.find('div', class_= 'mw-parser-output')
     soup = soup.find_all('p')[0]
-    return soup
+    return soup.prettify()
